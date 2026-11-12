@@ -27,4 +27,4 @@ Real photos from the shop for Bishops Chamblee posts. These are not queued to po
 | 15 | `15-store-exterior-sign` | Outside. The orange BISHOPS CUTS / COLOR sign on the brick front of the building. | Small Business Saturday, "find us", Thanksgiving, New Year. |
 | 16 | `16-team-stylist-with-clients` | In the shop. A smiling stylist works on a client's long wet hair while a second client in a tank top drinks from a can. All three faces show. Smaller file (1079x688). | Hold until everyone shown says OK and it's confirmed this is the Chamblee shop. |
 
-Before posting #2, #3, #4, #6, #7 or #9, check the client is OK being shown (tattoo, partial face, people in the background, or a possible minor).
+Before posting #2, #3, #4, #6, #7, #9 or #16, check the client is OK being shown (tattoo, partial face, people in the background, or a possible minor).
