@@ -20,4 +20,11 @@ Real photos from the shop for Bishops Chamblee posts. These are not queued to po
 | 9 | `9-color-golden-blonde-magenta-ends` | Back view. Long golden blonde with bold magenta dip-dyed ends, curled and glossy. Two other people are visible in the mirror. | Color posts: bold color. Nov 18 color carousel. Crop or blur the people in the mirror before posting. |
 | 10 | `10-process-scissor-over-comb-silver` | In progress. Barber doing scissor-over-comb on short silver hair, back and side view of the client. | Behind the scenes and classic cuts: Nov 22 "How often to book", Nov 29 "Behind the chair". |
 
+| 11 | `11-store-barber-chair-closeup` | The shop. Close-up of a black leather barber chair with chrome base, a row of chairs and the colorful art wall behind, soft focus. No people. | "Your chair is waiting" posts, Stories, Reel openers. |
+| 12 | `12-store-wide-interior-art-wall` | The shop. Wide shot of the full floor: BISHOPS logo on the concrete floor, a row of barber chairs, mirrors with light bars, the diamond art wall and pendant lights. No people. | Store tour, "come see the space", Reel openers, December posts. |
+| 13 | `13-store-waiting-area-b-wall` | The shop. Waiting area with vintage theater seats in sunlight, the big orange B monogram on the wall and Bishops caps on shelves. No people. | Welcome back, holiday hours, gift cards, "the vibe" posts. |
+| 14 | `14-store-chair-row-art-column` | The shop. Long row of black and white chairs down the stations, poster art on the wall and the collage column. A couple of people far in the back, not identifiable. | Store tour, "your chair is waiting", booking posts. |
+| 15 | `15-store-exterior-sign` | Outside. The orange BISHOPS CUTS / COLOR sign on the brick front of the building. | Small Business Saturday, "find us", Thanksgiving, New Year. |
+| 16 | `16-team-stylist-with-clients` | In the shop. A smiling stylist works on a client's long wet hair while a second client in a tank top drinks from a can. All three faces show. Smaller file (1079x688). | Hold until everyone shown says OK and it's confirmed this is the Chamblee shop. |
+
 Before posting #2, #3, #4, #6, #7 or #9, check the client is OK being shown (tattoo, partial face, people in the background, or a possible minor).
