@@ -1,0 +1,1477 @@
+{
+ "account": "17841406195297020",
+ "timezone": "America/New_York",
+ "note": "Times are local Eastern. status: pending | posted | failed | manual (Story needs an interactive sticker, Boniface posts it by hand)",
+ "items": [
+  {
+   "id": "01-mon-nov16-taper-or-fade",
+   "at": "2026-11-16T12:00",
+   "date": "Mon Nov 16",
+   "status": "pending",
+   "caption": "Taper or fade? Swipe for two of our favorites. ✂️\n\nFirst: a low taper, blended clean at the neckline. Second: a mid skin fade with a side part, faded right into the beard. Tell us which one is you. 50% off any cut through Fri Nov 20.\n\nBook at bishops.co/chamblee (link in bio).\n\n#BishopsChamblee #ChambleeGA #TaperFade #SkinFade #AtlantaBarber",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/01-mon-nov16-taper-or-fade-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/01-mon-nov16-taper-or-fade-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/01-mon-nov16-taper-or-fade-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/01-mon-nov16-taper-or-fade-4.jpg"
+   ]
+  },
+  {
+   "id": "s01-mon-nov16-poll-last-cut",
+   "at": "2026-11-16T12:00",
+   "date": "Mon Nov 16",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s01-mon-nov16-poll-last-cut.jpg",
+   "status": "manual",
+   "note": "Add a poll sticker"
+  },
+  {
+   "id": "r1-tue-nov17-the-fade",
+   "at": "2026-11-17T18:00",
+   "date": "Tue Nov 17",
+   "status": "pending",
+   "caption": "Three fades, one standard: clean. 💈\n\nLow taper, mid skin fade, or a classic short cut. Which one are you booking? Send this to the friend who's overdue.\n\n50% off any cut through Fri Nov 20. Book at bishops.co/chamblee (link in bio).\n\n#BishopsChamblee #FadeHaircut #AtlantaBarber #ChambleeGA #FreshCut",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r1-tue-nov17-the-fade.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r1-tue-nov17-the-fade-cover.jpg"
+  },
+  {
+   "id": "s02-tue-nov17-countdown",
+   "at": "2026-11-17T18:00",
+   "date": "Tue Nov 17",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s02-tue-nov17-countdown.jpg",
+   "status": "manual",
+   "note": "Add a countdown sticker"
+  },
+  {
+   "id": "03-wed-nov18-warm-cool-bold",
+   "at": "2026-11-18T12:00",
+   "date": "Wed Nov 18",
+   "status": "pending",
+   "caption": "Warm, cool or bold? Swipe and pick your side. 🎨\n\nWarm: caramel and honey highlights that melt lighter toward the ends. Cool: icy platinum blonde with a soft root. Bold: a cobalt and coral bob, or golden blonde with magenta ends. Book any color through Fri Nov 20 and your haircut is free.\n\nQuestions? DM us, we love talking color. Book at bishops.co/chamblee (link in bio).\n\n#BishopsChamblee #AtlantaHairColor #ChambleeGA #PlatinumBlonde #VividHair",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-wed-nov18-warm-cool-bold-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-wed-nov18-warm-cool-bold-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-wed-nov18-warm-cool-bold-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-wed-nov18-warm-cool-bold-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-wed-nov18-warm-cool-bold-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-wed-nov18-warm-cool-bold-6.jpg"
+   ]
+  },
+  {
+   "id": "s03-wed-nov18-ask-color",
+   "at": "2026-11-18T12:00",
+   "date": "Wed Nov 18",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s03-wed-nov18-ask-color.jpg",
+   "status": "manual",
+   "note": "Add a question sticker"
+  },
+  {
+   "id": "04-thu-nov19-last-chance",
+   "at": "2026-11-19T12:00",
+   "date": "Thu Nov 19",
+   "status": "pending",
+   "caption": "Heads up: the reopening offer ends tomorrow. 🧡\n\nThrough Fri Nov 20, pick one: 50% off any cut, or a free cut with any color service. Thanks to everyone who's come through already.\n\nBook at bishops.co/chamblee (link in bio), or walk in.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #WereBack",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/04-thu-nov19-last-chance.jpg"
+  },
+  {
+   "id": "s04-thu-nov19-ends-tomorrow",
+   "at": "2026-11-19T12:00",
+   "date": "Thu Nov 19",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s04-thu-nov19-ends-tomorrow.jpg",
+   "status": "pending",
+   "note": "Add a link sticker"
+  },
+  {
+   "id": "r2-fri-nov20-color-reveal",
+   "at": "2026-11-20T10:00",
+   "date": "Fri Nov 20",
+   "status": "pending",
+   "caption": "Wait for it. 🎨\n\nColor done right at Bishops Chamblee. Today is the last day for a free cut with any color service.\n\nBook at bishops.co/chamblee (link in bio).\n\n#BishopsChamblee #HairColorTransformation #AtlantaHairColor #ChambleeGA #ColorAndCut",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r2-fri-nov20-color-reveal.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r2-fri-nov20-color-reveal-cover.jpg"
+  },
+  {
+   "id": "s05-fri-nov20-last-day",
+   "at": "2026-11-20T10:00",
+   "date": "Fri Nov 20",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s05-fri-nov20-last-day.jpg",
+   "status": "pending",
+   "note": "Add a link sticker"
+  },
+  {
+   "id": "06-sat-nov21-been-a-while",
+   "at": "2026-11-21T10:00",
+   "date": "Sat Nov 21",
+   "status": "pending",
+   "caption": "Been a while? Your chair's still here. 💺\n\nIf you were a regular before we closed, we'd love to see you again. Same crew vibe, same spot at 5070 Peachtree Blvd.\n\nBook at bishops.co/chamblee (link in bio). Welcome back.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #WelcomeBack",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/06-sat-nov21-been-a-while.jpg"
+  },
+  {
+   "id": "s06-sat-nov21-welcome-back",
+   "at": "2026-11-21T10:00",
+   "date": "Sat Nov 21",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s06-sat-nov21-welcome-back.jpg",
+   "status": "pending",
+   "note": "Add a link sticker"
+  },
+  {
+   "id": "07-sun-nov22-how-often",
+   "at": "2026-11-22T12:00",
+   "date": "Sun Nov 22",
+   "status": "pending",
+   "caption": "Save this for your next booking. 📌\n\nFades and short cuts: every 3 to 4 weeks. Longer cuts: every 6 to 8 weeks. Color touch-ups: every 6 to 8 weeks.\n\nBook your next one before you leave the chair, or at bishops.co/chamblee (link in bio).\n\n#BishopsChamblee #HairTips #ChambleeGA #AtlantaHair",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-nov22-how-often-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-nov22-how-often-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-nov22-how-often-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-nov22-how-often-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-nov22-how-often-5.jpg"
+   ]
+  },
+  {
+   "id": "08-mon-nov23-gift-cards-and-hours",
+   "at": "2026-11-23T12:00",
+   "date": "Mon Nov 23",
+   "status": "pending",
+   "caption": "Our holiday gift card deal starts today. Get a $10 bonus card for every $50 on a Bishops gift card (up to $50 bonus per card), through Thu Dec 31. Buy online (link in bio) or at the front desk. Bonus card valid Jan 1 to Mar 1, 2027. Swipe for our holiday hours, so you can plan your cut. 🗓️\n\nOpen this week through Wednesday. Closed Thursday for Thanksgiving. Back Friday at 10am.\n\nGet your holiday cut or color on the books at bishops.co/chamblee (link in bio).\n\n#BishopsChamblee #ChambleeGA #HolidayHair #AtlantaHair",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/08-mon-nov23-gift-cards-and-hours-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/08-mon-nov23-gift-cards-and-hours-2.jpg"
+   ]
+  },
+  {
+   "id": "s08-mon-nov23-gift-card-deal",
+   "at": "2026-11-23T12:00",
+   "date": "Mon Nov 23",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s08-mon-nov23-gift-card-deal.jpg",
+   "status": "pending",
+   "note": "Add a link sticker"
+  },
+  {
+   "id": "r3-tue-nov24-holiday-ready",
+   "at": "2026-11-24T18:00",
+   "date": "Tue Nov 24",
+   "status": "pending",
+   "caption": "Family photos coming up? Let's get you ready. 📸\n\nA fresh cut and style before the holidays, done right at Bishops Chamblee.\n\nBook at bishops.co/chamblee (link in bio). Tag who's hosting this year.\n\n#BishopsChamblee #HolidayHair #ChambleeGA #AtlantaBarber #FreshCut",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r3-tue-nov24-holiday-ready.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r3-tue-nov24-holiday-ready-cover.jpg"
+  },
+  {
+   "id": "s09-tue-nov24-poll-holidays",
+   "at": "2026-11-24T18:00",
+   "date": "Tue Nov 24",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s09-tue-nov24-poll-holidays.jpg",
+   "status": "manual",
+   "note": "Add a poll sticker"
+  },
+  {
+   "id": "10-wed-nov25-closed-thursday",
+   "at": "2026-11-25T12:00",
+   "date": "Wed Nov 25",
+   "status": "pending",
+   "caption": "Happy Thanksgiving week, Chamblee. 🎁\n\nWe're closed tomorrow for Thanksgiving and back Friday at 10am. Still making your list? Get a $10 bonus card for every $50 on a Bishops gift card, online (link in bio) or in the shop, through Dec 31.\n\nTurn on notifications so you don't miss it.\n\n#BishopsChamblee #ChambleeGA #BlackFriday #GiftIdeas",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-wed-nov25-closed-thursday.jpg"
+  },
+  {
+   "id": "s10-wed-nov25-closed-tomorrow",
+   "at": "2026-11-25T12:00",
+   "date": "Wed Nov 25",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s10-wed-nov25-closed-tomorrow.jpg",
+   "status": "pending",
+   "note": "No sticker needed"
+  },
+  {
+   "id": "11-thu-nov26-thanksgiving",
+   "at": "2026-11-26T10:00",
+   "date": "Thu Nov 26",
+   "status": "pending",
+   "caption": "Happy Thanksgiving, Chamblee. 🧡\n\nWe're closed today and spending it with family. We're grateful for every one of you who welcomed us back this month.\n\nSee you Friday at 10am.\n\n#BishopsChamblee #HappyThanksgiving #ChambleeGA #Grateful",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/11-thu-nov26-thanksgiving.jpg"
+  },
+  {
+   "id": "r4-fri-nov27-black-friday",
+   "at": "2026-11-27T09:00",
+   "date": "Fri Nov 27",
+   "status": "pending",
+   "caption": "Black Friday at Bishops: get $10 for every $50 you spend on gift cards. 🎁\n\nSpend $50, get $10. Spend $100, get $20. The easiest gift on your list, and a little something for you too.\n\nDoors open at 10am at 5070 Peachtree Blvd. Buy online (link in bio) or at the front desk, through Dec 31. Up to $50 bonus per gift card; bonus card valid Jan 1 to Mar 1, 2027.\n\n#BishopsChamblee #BlackFriday #GiftCards #ChambleeGA #ShopLocal",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r4-fri-nov27-black-friday.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r4-fri-nov27-black-friday-cover.jpg"
+  },
+  {
+   "id": "s12-fri-nov27-gift-card-how",
+   "at": "2026-11-27T09:00",
+   "date": "Fri Nov 27",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s12-fri-nov27-gift-card-how.jpg",
+   "status": "pending",
+   "note": "Add a link sticker"
+  },
+  {
+   "id": "13-sat-nov28-shop-small",
+   "at": "2026-11-28T10:00",
+   "date": "Sat Nov 28",
+   "status": "pending",
+   "caption": "Shop small, Chamblee. 🧡\n\nWe're your neighborhood shop at 5070 Peachtree Blvd, and today's a great day to give a Bishops gift card. Get a $10 bonus card for every $50 you spend, through Dec 31.\n\nOpen today. Walk in or book at bishops.co/chamblee (link in bio).\n\n#BishopsChamblee #SmallBusinessSaturday #ShopSmall #ChambleeGA #ShopLocal",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/13-sat-nov28-shop-small-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/13-sat-nov28-shop-small-2.jpg"
+   ]
+  },
+  {
+   "id": "s13-sat-nov28-shop-small",
+   "at": "2026-11-28T10:00",
+   "date": "Sat Nov 28",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s13-sat-nov28-shop-small.jpg",
+   "status": "pending",
+   "note": "Add a location sticker"
+  },
+  {
+   "id": "r5-sun-nov29-behind-the-chair",
+   "at": "2026-11-29T12:00",
+   "date": "Sun Nov 29",
+   "status": "pending",
+   "caption": "A day behind the chair at Bishops Chamblee. 💈\n\nGood music, sharp cuts, and color that turns heads. This is why we love what we do.\n\nCome see for yourself. Book at bishops.co/chamblee (link in bio).\n\n#BishopsChamblee #BehindTheChair #ChambleeGA #AtlantaBarber #AtlantaHair",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r5-sun-nov29-behind-the-chair.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r5-sun-nov29-behind-the-chair-cover.jpg"
+  },
+  {
+   "id": "r6-mon-nov30-cyber-monday",
+   "at": "2026-11-30T12:00",
+   "date": "Mon Nov 30",
+   "status": "pending",
+   "caption": "Cyber Monday, the Bishops way. 🎁\n\nShop from the couch: buy Bishops gift cards online (link in bio) and get a $10 bonus card for every $50, through Dec 31. And if you want a fresh cut for the holidays, get your December spot on the books early.\n\nBook at bishops.co/chamblee (link in bio).\n\n#BishopsChamblee #CyberMonday #GiftCards #ChambleeGA #HolidayHair",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r6-mon-nov30-cyber-monday.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r6-mon-nov30-cyber-monday-cover.jpg"
+  },
+  {
+   "id": "s15-mon-nov30-book-december",
+   "at": "2026-11-30T12:00",
+   "date": "Mon Nov 30",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/s15-mon-nov30-book-december.jpg",
+   "status": "pending",
+   "note": "Add a link sticker"
+  },
+  {
+   "id": "r7-tue-dec1-step-inside",
+   "at": "2026-12-01T18:00",
+   "date": "Tue Dec 1",
+   "status": "pending",
+   "caption": "Step inside Bishops Chamblee. 🎨💈\n\nArt on every wall, chairs ready, and a seat with your name on it. Come see the space.\n\n📍 5070 Peachtree Blvd, Chamblee\nBook: bishops.co/chamblee (link in bio)\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #BarbershopVibes",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r7-tue-dec1-step-inside.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r7-tue-dec1-step-inside-cover.jpg"
+  },
+  {
+   "id": "d01-tue-dec1-take-the-tour",
+   "at": "2026-12-01T18:00",
+   "date": "Tue Dec 1",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d01-tue-dec1-take-the-tour.jpg",
+   "status": "pending",
+   "note": "Link sticker to the Reel or bishops.co/chamblee, under the headline"
+  },
+  {
+   "id": "02-wed-dec2-party-color",
+   "at": "2026-12-02T12:00",
+   "date": "Wed Dec 2",
+   "status": "pending",
+   "caption": "Party season is here. Pick your color. 🥂\n\n✨ Magenta ends\n🍯 Caramel glow\n❄️ Winter platinum\n💙 Cobalt and coral\n\nWhich one's you? Tell us below 👇\n\nBook your color: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #HairColor #PartyHair",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/02-wed-dec2-party-color-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/02-wed-dec2-party-color-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/02-wed-dec2-party-color-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/02-wed-dec2-party-color-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/02-wed-dec2-party-color-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/02-wed-dec2-party-color-6.jpg"
+   ]
+  },
+  {
+   "id": "03-thu-dec3-your-chair",
+   "at": "2026-12-03T12:00",
+   "date": "Thu Dec 3",
+   "status": "pending",
+   "caption": "Your chair is waiting. 💈\n\nCuts and color, Chamblee. Walk in or book ahead.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-thu-dec3-your-chair.jpg"
+  },
+  {
+   "id": "d03-thu-dec3-holiday-look",
+   "at": "2026-12-03T12:00",
+   "date": "Thu Dec 3",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d03-thu-dec3-holiday-look.jpg",
+   "status": "manual",
+   "note": "Question sticker under the headline: \"What are you getting done for the holidays?\""
+  },
+  {
+   "id": "04-fri-dec4-easiest-gift",
+   "at": "2026-12-04T12:00",
+   "date": "Fri Dec 4",
+   "status": "pending",
+   "caption": "The easiest gift on your list. 🎁\n\nA Bishops gift card = a fresh cut or new color, whenever they're ready. And through Dec 31 you get a $10 bonus card for every $50 (up to $50).\n\nBuy online (link in bio) or at the front desk, 5070 Peachtree Blvd.\n\nBonus card valid Jan 1 to Mar 1, 2027. One bonus per gift card, up to $50. Can't be combined with other offers.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #GiftIdeas #ShopLocal",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/04-fri-dec4-easiest-gift.jpg"
+  },
+  {
+   "id": "d04-fri-dec4-gift-cards",
+   "at": "2026-12-04T12:00",
+   "date": "Fri Dec 4",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d04-fri-dec4-gift-cards.jpg",
+   "status": "pending",
+   "note": "Location sticker: Bishops Chamblee"
+  },
+  {
+   "id": "05-sat-dec5-saturday-sharp",
+   "at": "2026-12-05T10:00",
+   "date": "Sat Dec 5",
+   "status": "pending",
+   "caption": "Saturday sharp. ✂️\n\nClassic short cut, low taper, clean neckline. That's the whole plan.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Taper #MensHaircut",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/05-sat-dec5-saturday-sharp.jpg"
+  },
+  {
+   "id": "06-sun-dec6-holiday-hair-checklist",
+   "at": "2026-12-06T12:00",
+   "date": "Sun Dec 6",
+   "status": "pending",
+   "caption": "Your holiday hair checklist. Save this for later 📌\n\n1️⃣ Book 1 to 2 weeks before the party\n2️⃣ Color first, then the cut\n3️⃣ Fades: clean it up the week of\n4️⃣ Ask for a gloss\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #HolidayHair",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/06-sun-dec6-holiday-hair-checklist-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/06-sun-dec6-holiday-hair-checklist-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/06-sun-dec6-holiday-hair-checklist-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/06-sun-dec6-holiday-hair-checklist-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/06-sun-dec6-holiday-hair-checklist-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/06-sun-dec6-holiday-hair-checklist-6.jpg"
+   ]
+  },
+  {
+   "id": "07-mon-dec7-pull-up-a-seat",
+   "at": "2026-12-07T12:00",
+   "date": "Mon Dec 7",
+   "status": "pending",
+   "caption": "Pull up a seat. 🪑\n\nThe waiting area's got good light, old-school seats and the big orange B. Your chair's right behind it.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-mon-dec7-pull-up-a-seat.jpg"
+  },
+  {
+   "id": "d07-mon-dec7-pull-up-a-seat",
+   "at": "2026-12-07T12:00",
+   "date": "Mon Dec 7",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d07-mon-dec7-pull-up-a-seat.jpg",
+   "status": "pending",
+   "note": "Location sticker at the top: Bishops Chamblee"
+  },
+  {
+   "id": "r8-tue-dec8-party-season",
+   "at": "2026-12-08T18:00",
+   "date": "Tue Dec 8",
+   "status": "pending",
+   "caption": "Office party. Family photos. New Year's Eve. 🎉\n\nWhatever's on the calendar, we've got the look. Cut, color, or both.\n\nBook: bishops.co/chamblee (link in bio)\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #PartyHair #FreshCut",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r8-tue-dec8-party-season.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r8-tue-dec8-party-season-cover.jpg"
+  },
+  {
+   "id": "d08-tue-dec8-poll",
+   "at": "2026-12-08T18:00",
+   "date": "Tue Dec 8",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d08-tue-dec8-poll.jpg",
+   "status": "manual",
+   "note": "Poll under the headline: \"Yes\" / \"Not yet\". Link sticker: bishops.co/chamblee"
+  },
+  {
+   "id": "09-wed-dec9-weekends-go-first",
+   "at": "2026-12-09T12:00",
+   "date": "Wed Dec 9",
+   "status": "pending",
+   "caption": "Heads up: December weekends go first. 📅\n\nWant a Saturday before the party? Book it now. Weekdays are easier to get, and the cut's just as sharp.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/09-wed-dec9-weekends-go-first.jpg"
+  },
+  {
+   "id": "10-thu-dec10-inside-the-shop",
+   "at": "2026-12-10T12:00",
+   "date": "Thu Dec 10",
+   "status": "pending",
+   "caption": "Take a look inside Bishops Chamblee 👀\n\n01 The floor\n02 The lounge\n03 Your chair\n04 The orange sign on Peachtree Blvd\n\nCome see it in person: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #BarbershopVibes",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-thu-dec10-inside-the-shop-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-thu-dec10-inside-the-shop-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-thu-dec10-inside-the-shop-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-thu-dec10-inside-the-shop-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-thu-dec10-inside-the-shop-5.jpg"
+   ]
+  },
+  {
+   "id": "11-fri-dec11-go-bold",
+   "at": "2026-12-11T12:00",
+   "date": "Fri Dec 11",
+   "status": "pending",
+   "caption": "Go bold this season. 💙🧡\n\nCobalt, violet and coral on a stacked bob. Who's next?\n\nBook your color: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #VividHair #HairColor",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/11-fri-dec11-go-bold.jpg"
+  },
+  {
+   "id": "12-sat-dec12-gift-guide",
+   "at": "2026-12-12T10:00",
+   "date": "Sat Dec 12",
+   "status": "pending",
+   "caption": "The Bishops gift guide 🎁\n\n01 The one who has it all: a fresh cut\n02 The teacher, the coworker: easy to give, actually used\n03 The stocking: a gift card, bought online in a minute\n\nThrough Dec 31, get a $10 bonus card for every $50 (up to $50). Link in bio, or stop by 5070 Peachtree Blvd.\n\nBonus card valid Jan 1 to Mar 1, 2027.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #GiftGuide #ShopLocal",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/12-sat-dec12-gift-guide-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/12-sat-dec12-gift-guide-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/12-sat-dec12-gift-guide-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/12-sat-dec12-gift-guide-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/12-sat-dec12-gift-guide-5.jpg"
+   ]
+  },
+  {
+   "id": "d12-sat-dec12-whos-on-your-list",
+   "at": "2026-12-12T10:00",
+   "date": "Sat Dec 12",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d12-sat-dec12-whos-on-your-list.jpg",
+   "status": "manual",
+   "note": "Question sticker in the middle: \"Who's left on your list?\""
+  },
+  {
+   "id": "13-sun-dec13-the-blowout",
+   "at": "2026-12-13T12:00",
+   "date": "Sun Dec 13",
+   "status": "pending",
+   "caption": "Behind the chair: the blowout. 💨\n\nSection, round brush, heat. Volume that lasts through the party.\n\nAdd a blowout to your next visit: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Blowout #BehindTheChair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/13-sun-dec13-the-blowout.jpg"
+  },
+  {
+   "id": "14-mon-dec14-holiday-hours",
+   "at": "2026-12-14T12:00",
+   "date": "Mon Dec 14",
+   "status": "pending",
+   "caption": "Holiday hours, so you can plan ahead 🗓️\n\nThu Dec 24: closing early\nFri Dec 25: closed\nThu Dec 31: closing early\nFri Jan 1: closed\n\nRegular hours every other day. Book: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/14-mon-dec14-holiday-hours.jpg"
+  },
+  {
+   "id": "d14-mon-dec14-hours",
+   "at": "2026-12-14T12:00",
+   "date": "Mon Dec 14",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d14-mon-dec14-hours.jpg",
+   "status": "pending",
+   "note": "Link sticker at the bottom: bishops.co/chamblee"
+  },
+  {
+   "id": "r9-tue-dec15-gift-card",
+   "at": "2026-12-15T18:00",
+   "date": "Tue Dec 15",
+   "status": "pending",
+   "caption": "Gift idea in 10 seconds. ⏱️🎁\n\nTap the link in bio (or come by). Spend $50, get a $10 bonus card. Done.\n\nThe bonus runs through Dec 31, up to $50 per gift card. Bonus card valid Jan 1 to Mar 1, 2027.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #GiftIdeas #LastMinuteGifts",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r9-tue-dec15-gift-card.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r9-tue-dec15-gift-card-cover.jpg"
+  },
+  {
+   "id": "16-wed-dec16-still-time",
+   "at": "2026-12-16T12:00",
+   "date": "Wed Dec 16",
+   "status": "pending",
+   "caption": "Christmas is next week. There's still time 🎄\n\nBook your holiday cut or color this week. We close early on Christmas Eve.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #HolidayHair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/16-wed-dec16-still-time.jpg"
+  },
+  {
+   "id": "d16-wed-dec16-countdown",
+   "at": "2026-12-16T12:00",
+   "date": "Wed Dec 16",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d16-wed-dec16-countdown.jpg",
+   "status": "manual",
+   "note": "Countdown sticker: \"Christmas Eve\", Thu Dec 24. Link sticker: bishops.co/chamblee"
+  },
+  {
+   "id": "17-thu-dec17-winter-hair",
+   "at": "2026-12-17T12:00",
+   "date": "Thu Dec 17",
+   "status": "pending",
+   "caption": "Winter-proof your hair ❄️ Save this.\n\n01 Dry air? Use a leave-in\n02 Rinse cool to keep color bright\n03 Hat hair? Get a cut that falls back into place\n04 Fades every 3 weeks\n\nBook a reset: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #WinterHair #HairTips",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-thu-dec17-winter-hair-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-thu-dec17-winter-hair-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-thu-dec17-winter-hair-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-thu-dec17-winter-hair-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-thu-dec17-winter-hair-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-thu-dec17-winter-hair-6.jpg"
+   ]
+  },
+  {
+   "id": "18-fri-dec18-last-weekend",
+   "at": "2026-12-18T12:00",
+   "date": "Fri Dec 18",
+   "status": "pending",
+   "caption": "Last weekend before Christmas. Chairs are ready 💈\n\nGet the cut in before the family photos.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/18-fri-dec18-last-weekend.jpg"
+  },
+  {
+   "id": "19-sat-dec19-super-saturday",
+   "at": "2026-12-19T10:00",
+   "date": "Sat Dec 19",
+   "status": "pending",
+   "caption": "Last-minute gift? We've got you. 🎁\n\nBishops gift cards, online in a minute (link in bio) or at the front desk today. Plus a $10 bonus card for every $50, up to $50.\n\nBonus card valid Jan 1 to Mar 1, 2027.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #SuperSaturday #ShopLocal",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/19-sat-dec19-super-saturday.jpg"
+  },
+  {
+   "id": "d19-sat-dec19-super-saturday",
+   "at": "2026-12-19T10:00",
+   "date": "Sat Dec 19",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d19-sat-dec19-super-saturday.jpg",
+   "status": "pending",
+   "note": "Location sticker: Bishops Chamblee"
+  },
+  {
+   "id": "20-sun-dec20-scissor-over-comb",
+   "at": "2026-12-20T12:00",
+   "date": "Sun Dec 20",
+   "status": "pending",
+   "caption": "Scissor over comb. Old-school craft, every time. ✂️\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #BehindTheChair #ClassicCut",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/20-sun-dec20-scissor-over-comb.jpg"
+  },
+  {
+   "id": "21-mon-dec21-shortest-day",
+   "at": "2026-12-21T12:00",
+   "date": "Mon Dec 21",
+   "status": "pending",
+   "caption": "Shortest day of the year. Sharpest cut. ☀️✂️\n\nBook this week: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-mon-dec21-shortest-day.jpg"
+  },
+  {
+   "id": "d21-mon-dec21-last-minute",
+   "at": "2026-12-21T12:00",
+   "date": "Mon Dec 21",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d21-mon-dec21-last-minute.jpg",
+   "status": "pending",
+   "note": "Link sticker under the text: gift card purchase page"
+  },
+  {
+   "id": "r10-tue-dec22-holiday-glow-up",
+   "at": "2026-12-22T18:00",
+   "date": "Tue Dec 22",
+   "status": "pending",
+   "caption": "Holiday glow-up, one color at a time. ✨\n\nWarm, cool or loud: which one's yours?\n\nOpen this week. Closing early Thu Dec 24, closed Christmas Day.\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #HairColor #GlowUp",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r10-tue-dec22-holiday-glow-up.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r10-tue-dec22-holiday-glow-up-cover.jpg"
+  },
+  {
+   "id": "23-wed-dec23-open-today",
+   "at": "2026-12-23T12:00",
+   "date": "Wed Dec 23",
+   "status": "pending",
+   "caption": "Open today 💈 Last full day before Christmas.\n\nThu Dec 24: closing early\nFri Dec 25: closed\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/23-wed-dec23-open-today.jpg"
+  },
+  {
+   "id": "d23-wed-dec23-closing-early",
+   "at": "2026-12-23T12:00",
+   "date": "Wed Dec 23",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d23-wed-dec23-closing-early.jpg",
+   "status": "pending",
+   "note": "Link sticker: bishops.co/chamblee"
+  },
+  {
+   "id": "24-thu-dec24-christmas-eve",
+   "at": "2026-12-24T10:00",
+   "date": "Thu Dec 24",
+   "status": "pending",
+   "caption": "Merry almost-Christmas, Chamblee 🎄\n\nWe're open this morning and closing early today. Closed tomorrow for Christmas.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/24-thu-dec24-christmas-eve.jpg"
+  },
+  {
+   "id": "25-fri-dec25-merry-christmas",
+   "at": "2026-12-25T10:00",
+   "date": "Fri Dec 25",
+   "status": "pending",
+   "caption": "Merry Christmas, Chamblee 🎄🧡\n\nThank you for a great first season back. We're closed today and back tomorrow.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/25-fri-dec25-merry-christmas.jpg"
+  },
+  {
+   "id": "d25-fri-dec25-merry-christmas",
+   "at": "2026-12-25T10:00",
+   "date": "Fri Dec 25",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d25-fri-dec25-merry-christmas.jpg",
+   "status": "pending",
+   "note": "None needed"
+  },
+  {
+   "id": "26-sat-dec26-got-a-gift-card",
+   "at": "2026-12-26T10:00",
+   "date": "Sat Dec 26",
+   "status": "pending",
+   "caption": "Found a Bishops gift card under the tree? 🎁 Book it.\n\nWe're back open today. bishops.co/chamblee\n\nStill have someone to shop for? The gift card bonus ($10 for every $50) runs through Thu Dec 31.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/26-sat-dec26-got-a-gift-card.jpg"
+  },
+  {
+   "id": "27-sun-dec27-thank-you-2026",
+   "at": "2026-12-27T12:00",
+   "date": "Sun Dec 27",
+   "status": "pending",
+   "caption": "Thank you, 2026 🧡\n\nWe reopened on Nov 13 and you came back. Every cut and color since has been for you, Chamblee.\n\nSee you in 2027.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/27-sun-dec27-thank-you-2026-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/27-sun-dec27-thank-you-2026-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/27-sun-dec27-thank-you-2026-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/27-sun-dec27-thank-you-2026-4.jpg"
+   ]
+  },
+  {
+   "id": "28-mon-dec28-new-year-new-cut",
+   "at": "2026-12-28T12:00",
+   "date": "Mon Dec 28",
+   "status": "pending",
+   "caption": "New year. New cut. ✂️\n\nGet fresh before New Year's Eve. We close early Thu Dec 31.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #FreshCut #NYE",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/28-mon-dec28-new-year-new-cut.jpg"
+  },
+  {
+   "id": "d28-mon-dec28-bonus-ends-thursday",
+   "at": "2026-12-28T12:00",
+   "date": "Mon Dec 28",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d28-mon-dec28-bonus-ends-thursday.jpg",
+   "status": "pending",
+   "note": "Link sticker: gift card purchase page"
+  },
+  {
+   "id": "r11-tue-dec29-nye-ready",
+   "at": "2026-12-29T18:00",
+   "date": "Tue Dec 29",
+   "status": "pending",
+   "caption": "3, 2, 1... fresh. 🎆\n\nGet New Year's Eve ready. Closing early Thu Dec 31, closed Fri Jan 1.\n\nBook: bishops.co/chamblee (link in bio)\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #NYE #FreshCut",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r11-tue-dec29-nye-ready.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r11-tue-dec29-nye-ready-cover.jpg"
+  },
+  {
+   "id": "30-wed-dec30-last-chance-2026",
+   "at": "2026-12-30T12:00",
+   "date": "Wed Dec 30",
+   "status": "pending",
+   "caption": "Last cuts of 2026 ✂️\n\nOpen today. Closing early tomorrow, Thu Dec 31. Closed Fri Jan 1.\n\nLast chance on the gift card bonus: $10 for every $50, ends tomorrow. Link in bio.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #NYE",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/30-wed-dec30-last-chance-2026.jpg"
+  },
+  {
+   "id": "d30-wed-dec30-last-chance",
+   "at": "2026-12-30T12:00",
+   "date": "Wed Dec 30",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d30-wed-dec30-last-chance.jpg",
+   "status": "pending",
+   "note": "Link sticker: gift card purchase page"
+  },
+  {
+   "id": "31-thu-dec31-happy-new-year",
+   "at": "2026-12-31T12:00",
+   "date": "Thu Dec 31",
+   "status": "pending",
+   "caption": "Happy New Year, Chamblee 🎆\n\nThanks for a great year back. Closing early today, closed tomorrow, back Sat Jan 2.\n\nToday's the last day for the gift card bonus ($10 for every $50). Bonus cards work Jan 1 to Mar 1.\n\nSee you in 2027.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/31-thu-dec31-happy-new-year.jpg"
+  },
+  {
+   "id": "d31-thu-dec31-hours",
+   "at": "2026-12-31T12:00",
+   "date": "Thu Dec 31",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/d31-thu-dec31-hours.jpg",
+   "status": "pending",
+   "note": "Link sticker: gift card purchase page"
+  },
+  {
+   "id": "01-fri-jan1-hello-2027",
+   "at": "2027-01-01T10:00",
+   "date": "Fri Jan 1",
+   "status": "pending",
+   "caption": "Hello, 2027 🎆\n\nWe're closed today and back tomorrow, Sat Jan 2.\n\nGot a Bishops bonus card from the holidays? It works starting today, through Mar 1.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/01-fri-jan1-hello-2027.jpg"
+  },
+  {
+   "id": "j01-fri-jan1-bonus-cards-live",
+   "at": "2027-01-01T10:00",
+   "date": "Fri Jan 1",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/j01-fri-jan1-bonus-cards-live.jpg",
+   "status": "pending",
+   "note": "Link sticker: bishops.co/chamblee"
+  },
+  {
+   "id": "02-sat-jan2-first-cuts-of-2027",
+   "at": "2027-01-02T10:00",
+   "date": "Sat Jan 2",
+   "status": "pending",
+   "caption": "First cuts of 2027 ✂️\n\nWe're back open. Textured top, clean sides, fresh start.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #FreshCut",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/02-sat-jan2-first-cuts-of-2027.jpg"
+  },
+  {
+   "id": "03-sun-jan3-bonus-card-how-to",
+   "at": "2027-01-03T12:00",
+   "date": "Sun Jan 3",
+   "status": "pending",
+   "caption": "Got a Bishops bonus card from the holidays? Here's how to use it 👇\n\n1️⃣ Book a cut or color: bishops.co/chamblee\n2️⃣ Bring the card to checkout\n3️⃣ Use it by Mar 1, 2027\n\nBonus card valid Jan 1 to Mar 1, 2027. Can't be combined with other offers.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-sun-jan3-bonus-card-how-to-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-sun-jan3-bonus-card-how-to-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-sun-jan3-bonus-card-how-to-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-sun-jan3-bonus-card-how-to-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-sun-jan3-bonus-card-how-to-5.jpg"
+   ]
+  },
+  {
+   "id": "04-mon-jan4-same-chair",
+   "at": "2027-01-04T12:00",
+   "date": "Mon Jan 4",
+   "status": "pending",
+   "caption": "New year. Same chair. 💈\n\nYour spot's right where you left it. Cuts and color in Chamblee.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/04-mon-jan4-same-chair.jpg"
+  },
+  {
+   "id": "j04-mon-jan4-resolution-poll",
+   "at": "2027-01-04T12:00",
+   "date": "Mon Jan 4",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/j04-mon-jan4-resolution-poll.jpg",
+   "status": "manual",
+   "note": "Poll under the headline: \"Keep it the same\" / \"Try something new\""
+  },
+  {
+   "id": "r12-tue-jan5-real-work",
+   "at": "2027-01-05T18:00",
+   "date": "Tue Jan 5",
+   "status": "pending",
+   "caption": "Real cuts. Real color. Right here in Chamblee. 🧡\n\nEvery look in this video came out of our chairs at 5070 Peachtree Blvd.\n\nBook yours: bishops.co/chamblee (link in bio)\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #HairColor #Balayage #Barbershop",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r12-tue-jan5-real-work.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r12-tue-jan5-real-work-cover.jpg"
+  },
+  {
+   "id": "06-wed-jan6-fresh-start-blonde",
+   "at": "2027-01-06T12:00",
+   "date": "Wed Jan 6",
+   "status": "pending",
+   "caption": "Fresh start blonde. ✨\n\nSoft balayage with big waves, done right here in Chamblee. Grows out soft, no harsh line.\n\nBook your color: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Balayage #BlondeHair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/06-wed-jan6-fresh-start-blonde.jpg"
+  },
+  {
+   "id": "07-thu-jan7-january-reset",
+   "at": "2027-01-07T12:00",
+   "date": "Thu Jan 7",
+   "status": "pending",
+   "caption": "The January hair reset. Save this 📌\n\n1️⃣ Trim the dry ends\n2️⃣ Add a gloss\n3️⃣ Clean up the fade\n4️⃣ Book the next one now\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-thu-jan7-january-reset-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-thu-jan7-january-reset-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-thu-jan7-january-reset-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-thu-jan7-january-reset-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-thu-jan7-january-reset-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-thu-jan7-january-reset-6.jpg"
+   ]
+  },
+  {
+   "id": "08-fri-jan8-split-decision",
+   "at": "2027-01-08T12:00",
+   "date": "Fri Jan 8",
+   "status": "pending",
+   "caption": "Split decision. ❤️🖤\n\nCherry red meets deep black, with soft waves. Done in Chamblee.\n\nBook your color: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #SplitDye #VividHair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/08-fri-jan8-split-decision.jpg"
+  },
+  {
+   "id": "j08-fri-jan8-red-or-black",
+   "at": "2027-01-08T12:00",
+   "date": "Fri Jan 8",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/j08-fri-jan8-red-or-black.jpg",
+   "status": "manual",
+   "note": "Poll: \"Red\" / \"Black\""
+  },
+  {
+   "id": "09-sat-jan9-kids-cuts",
+   "at": "2027-01-09T10:00",
+   "date": "Sat Jan 9",
+   "status": "pending",
+   "caption": "Kids cuts, too. ✂️\n\nFirst week back at school? Clean fade, textured top, ready for Monday.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #KidsHaircut",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/09-sat-jan9-kids-cuts.jpg"
+  },
+  {
+   "id": "10-sun-jan10-real-work",
+   "at": "2027-01-10T12:00",
+   "date": "Sun Jan 10",
+   "status": "pending",
+   "caption": "Real work. Our chairs. 🧡\n\n01 Blonde balayage\n02 Red and black split\n03 Midnight indigo\n04 Platinum white\n05 Green curls\n\nAll done at Bishops Chamblee. Which one's next? 👇\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #HairColor",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-sun-jan10-real-work-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-sun-jan10-real-work-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-sun-jan10-real-work-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-sun-jan10-real-work-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-sun-jan10-real-work-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-sun-jan10-real-work-6.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-sun-jan10-real-work-7.jpg"
+   ]
+  },
+  {
+   "id": "11-mon-jan11-been-a-minute",
+   "at": "2027-01-11T12:00",
+   "date": "Mon Jan 11",
+   "status": "pending",
+   "caption": "Haven't seen you since the holidays. 👋\n\nYour chair's open. Same shop, same cut, 5070 Peachtree Blvd.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/11-mon-jan11-been-a-minute.jpg"
+  },
+  {
+   "id": "r13-tue-jan12-color-reveal",
+   "at": "2027-01-12T18:00",
+   "date": "Tue Jan 12",
+   "status": "pending",
+   "caption": "Pick a color. Any color. 💙💚❤️\n\nIndigo, green curls, red and black, platinum. All real, all from our chairs.\n\nBook your color: bishops.co/chamblee (link in bio)\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #VividHair #HairColor",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r13-tue-jan12-color-reveal.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r13-tue-jan12-color-reveal-cover.jpg"
+  },
+  {
+   "id": "j12-tue-jan12-color-quiz",
+   "at": "2027-01-12T18:00",
+   "date": "Tue Jan 12",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/j12-tue-jan12-color-quiz.jpg",
+   "status": "manual",
+   "note": "Quiz sticker: Indigo / Green / Red / Blonde"
+  },
+  {
+   "id": "13-wed-jan13-winter-white",
+   "at": "2027-01-13T12:00",
+   "date": "Wed Jan 13",
+   "status": "pending",
+   "caption": "Winter white. ❄️\n\nPlatinum, toned bright, cut to a clean lob.\n\nBook your color: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #PlatinumHair #BlondeHair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/13-wed-jan13-winter-white.jpg"
+  },
+  {
+   "id": "14-thu-jan14-weekdays-wide-open",
+   "at": "2027-01-14T12:00",
+   "date": "Thu Jan 14",
+   "status": "pending",
+   "caption": "Pro tip: January weekdays are wide open. 📅\n\nSkip the weekend rush and grab a lunch-break cut.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/14-thu-jan14-weekdays-wide-open.jpg"
+  },
+  {
+   "id": "15-fri-jan15-behind-the-chair",
+   "at": "2027-01-15T12:00",
+   "date": "Fri Jan 15",
+   "status": "pending",
+   "caption": "Peekaboo teal. 💚\n\nBlonde on top, teal underneath. Hidden until it isn't.\n\nBook your color: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #PeekabooHair #VividHair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/15-fri-jan15-behind-the-chair.jpg"
+  },
+  {
+   "id": "j15-fri-jan15-peekaboo",
+   "at": "2027-01-15T12:00",
+   "date": "Fri Jan 15",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/j15-fri-jan15-peekaboo.jpg",
+   "status": "manual",
+   "note": "Emoji slider: 💚"
+  },
+  {
+   "id": "16-sat-jan16-slick-back",
+   "at": "2027-01-16T10:00",
+   "date": "Sat Jan 16",
+   "status": "pending",
+   "caption": "Slick back, low fade. 🔥\n\nLength up top, tight on the sides, clean behind the ear.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #MensHaircut #LowFade",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/16-sat-jan16-slick-back.jpg"
+  },
+  {
+   "id": "17-sun-jan17-color-words",
+   "at": "2027-01-17T12:00",
+   "date": "Sun Jan 17",
+   "status": "pending",
+   "caption": "Not sure what to ask for? Color, explained 👇\n\n01 Balayage: painted by hand, soft and blended\n02 Highlights: foiled ribbons, more contrast\n03 Gloss: sheer color plus shine\n04 Vivid: bold and bright\n\nStill not sure? We'll talk it through first.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #HairColor #Balayage",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-sun-jan17-color-words-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-sun-jan17-color-words-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-sun-jan17-color-words-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-sun-jan17-color-words-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-sun-jan17-color-words-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-sun-jan17-color-words-6.jpg"
+   ]
+  },
+  {
+   "id": "18-mon-jan18-mlk-day",
+   "at": "2027-01-18T10:00",
+   "date": "Mon Jan 18",
+   "status": "pending",
+   "caption": "Today we honor Dr. Martin Luther King Jr. and his work for justice and equality. 🧡\n\nWe're closed today and back tomorrow, Tue Jan 19.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/18-mon-jan18-mlk-day.jpg"
+  },
+  {
+   "id": "r14-tue-jan19-bonus-card-reminder",
+   "at": "2027-01-19T18:00",
+   "date": "Tue Jan 19",
+   "status": "pending",
+   "caption": "Still got a bonus card in your wallet? 👀\n\nUse it on a cut or color by Mar 1, 2027. Book: bishops.co/chamblee (link in bio)\n\nBonus card valid Jan 1 to Mar 1, 2027. Can't be combined with other offers.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r14-tue-jan19-bonus-card-reminder.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r14-tue-jan19-bonus-card-reminder-cover.jpg"
+  },
+  {
+   "id": "j19-tue-jan19-wallet-check",
+   "at": "2027-01-19T18:00",
+   "date": "Tue Jan 19",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/j19-tue-jan19-wallet-check.jpg",
+   "status": "pending",
+   "note": "Link sticker: bishops.co/chamblee"
+  },
+  {
+   "id": "20-wed-jan20-lived-in-color",
+   "at": "2027-01-20T12:00",
+   "date": "Wed Jan 20",
+   "status": "pending",
+   "caption": "Lived-in color. 🍯\n\nCaramel balayage with long layers. Low upkeep, high shine, grows out soft.\n\nBook your color: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Balayage #LivedInColor",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/20-wed-jan20-lived-in-color.jpg"
+  },
+  {
+   "id": "21-thu-jan21-pick-your-length",
+   "at": "2027-01-21T12:00",
+   "date": "Thu Jan 21",
+   "status": "pending",
+   "caption": "Short, medium or long? ✂️\n\n01 Textured crop\n02 Slick back\n03 Long layers\n\nTell us 1, 2 or 3 below 👇\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-thu-jan21-pick-your-length-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-thu-jan21-pick-your-length-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-thu-jan21-pick-your-length-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-thu-jan21-pick-your-length-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-thu-jan21-pick-your-length-5.jpg"
+   ]
+  },
+  {
+   "id": "22-fri-jan22-midnight-indigo",
+   "at": "2027-01-22T12:00",
+   "date": "Fri Jan 22",
+   "status": "pending",
+   "caption": "Midnight indigo. 💙\n\nLong, straight and glossy. Done in Chamblee.\n\nBook your color: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #BlueHair #VividHair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/22-fri-jan22-midnight-indigo.jpg"
+  },
+  {
+   "id": "j22-fri-jan22-indigo",
+   "at": "2027-01-22T12:00",
+   "date": "Fri Jan 22",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/j22-fri-jan22-indigo.jpg",
+   "status": "pending",
+   "note": "Link sticker: bishops.co/chamblee"
+  },
+  {
+   "id": "23-sat-jan23-curls-and-color",
+   "at": "2027-01-23T10:00",
+   "date": "Sat Jan 23",
+   "status": "pending",
+   "caption": "Curls and color. 💚\n\nGreen on natural texture, right under the big orange B.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #CurlyHair #VividHair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/23-sat-jan23-curls-and-color.jpg"
+  },
+  {
+   "id": "24-sun-jan24-make-color-last",
+   "at": "2027-01-24T12:00",
+   "date": "Sun Jan 24",
+   "status": "pending",
+   "caption": "Make your color last. Save this 📌\n\n1️⃣ Rinse cool\n2️⃣ Go sulfate-free\n3️⃣ Protect from heat\n4️⃣ Gloss every 6 to 8 weeks\n\nDue for a refresh? bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #HairCare #HairColor",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/24-sun-jan24-make-color-last-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/24-sun-jan24-make-color-last-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/24-sun-jan24-make-color-last-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/24-sun-jan24-make-color-last-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/24-sun-jan24-make-color-last-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/24-sun-jan24-make-color-last-6.jpg"
+   ]
+  },
+  {
+   "id": "25-mon-jan25-start-the-week-sharp",
+   "at": "2027-01-25T12:00",
+   "date": "Mon Jan 25",
+   "status": "pending",
+   "caption": "Start the week sharp. ✂️\n\nClassic short cut, low taper. In and out on your lunch break.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #MensHaircut",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/25-mon-jan25-start-the-week-sharp.jpg"
+  },
+  {
+   "id": "r15-tue-jan26-cuts-of-january",
+   "at": "2027-01-26T18:00",
+   "date": "Tue Jan 26",
+   "status": "pending",
+   "caption": "Cuts of January. ✂️\n\nCrops, fades, slick backs and the little guys too. All from our chairs on Peachtree Blvd.\n\nBook: bishops.co/chamblee (link in bio)\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Barbershop #Fade",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r15-tue-jan26-cuts-of-january.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r15-tue-jan26-cuts-of-january-cover.jpg"
+  },
+  {
+   "id": "27-wed-jan27-one-month-left",
+   "at": "2027-01-27T12:00",
+   "date": "Wed Jan 27",
+   "status": "pending",
+   "caption": "Bonus card check 👀 About a month left.\n\nUse your Bishops bonus card on a cut or color by Mar 1, 2027.\n\nBook: bishops.co/chamblee\n\nBonus card valid Jan 1 to Mar 1, 2027. Can't be combined with other offers.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/27-wed-jan27-one-month-left.jpg"
+  },
+  {
+   "id": "28-thu-jan28-walk-in-or-book",
+   "at": "2027-01-28T12:00",
+   "date": "Thu Jan 28",
+   "status": "pending",
+   "caption": "Walk in or book ahead. 💈\n\nEither way, there's a seat for you at 5070 Peachtree Blvd.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/28-thu-jan28-walk-in-or-book.jpg"
+  },
+  {
+   "id": "j28-thu-jan28-ask-us",
+   "at": "2027-01-28T12:00",
+   "date": "Thu Jan 28",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/j28-thu-jan28-ask-us.jpg",
+   "status": "manual",
+   "note": "Question sticker: \"Ask us anything about cuts or color\""
+  },
+  {
+   "id": "29-fri-jan29-blonde-waves",
+   "at": "2027-01-29T12:00",
+   "date": "Fri Jan 29",
+   "status": "pending",
+   "caption": "Weekend waves. 🌊\n\nBlonde balayage, styled to move.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Balayage",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/29-fri-jan29-blonde-waves.jpg"
+  },
+  {
+   "id": "30-sat-jan30-saturday-fade",
+   "at": "2027-01-30T10:00",
+   "date": "Sat Jan 30",
+   "status": "pending",
+   "caption": "Saturday fade. 🔥\n\nSkin fade with the beard blended right in.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #SkinFade #BeardTrim",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/30-sat-jan30-saturday-fade.jpg"
+  },
+  {
+   "id": "31-sun-jan31-january-recap",
+   "at": "2027-01-31T12:00",
+   "date": "Sun Jan 31",
+   "status": "pending",
+   "caption": "January in our chairs 🧡\n\n01 Red and black\n02 Blonde waves\n03 Textured crop\n04 Platinum white\n\nThanks for a great first month of 2027, Chamblee. Valentine's is Sun Feb 14, so book early.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/31-sun-jan31-january-recap-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/31-sun-jan31-january-recap-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/31-sun-jan31-january-recap-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/31-sun-jan31-january-recap-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/31-sun-jan31-january-recap-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/31-sun-jan31-january-recap-6.jpg"
+   ]
+  },
+  {
+   "id": "01-mon-feb1-date-night-countdown",
+   "at": "2027-02-01T12:00",
+   "date": "Mon Feb 1",
+   "status": "pending",
+   "caption": "Valentine's Day is in 2 weeks. ❤️\n\nBook your date-night cut or color now. Weekends fill first.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #ValentinesDay",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/01-mon-feb1-date-night-countdown.jpg"
+  },
+  {
+   "id": "f01-mon-feb1-plans",
+   "at": "2027-02-01T12:00",
+   "date": "Mon Feb 1",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/f01-mon-feb1-plans.jpg",
+   "status": "manual",
+   "note": "Poll: \"Date night\" / \"Galentine's\" / \"Couch + takeout\""
+  },
+  {
+   "id": "r16-tue-feb2-date-night-ready",
+   "at": "2027-02-02T18:00",
+   "date": "Tue Feb 2",
+   "status": "pending",
+   "caption": "Date night ready. ❤️\n\nWaves, slick backs, fresh fades and a little red. Whatever the plan, we've got the look.\n\nBook: bishops.co/chamblee (link in bio)\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #DateNight #ValentinesDay",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r16-tue-feb2-date-night-ready.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r16-tue-feb2-date-night-ready-cover.jpg"
+  },
+  {
+   "id": "03-wed-feb3-pink-for-february",
+   "at": "2027-02-03T12:00",
+   "date": "Wed Feb 3",
+   "status": "pending",
+   "caption": "Pink for February. 💗\n\nGolden blonde with magenta ends.\n\nBook your color: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #PinkHair #HairColor",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/03-wed-feb3-pink-for-february.jpg"
+  },
+  {
+   "id": "04-thu-feb4-give-a-fresh-cut",
+   "at": "2027-02-04T12:00",
+   "date": "Thu Feb 4",
+   "status": "pending",
+   "caption": "Valentine's gift idea: give a fresh cut. 🎁\n\nBishops gift cards, good for any cut or color. Buy online in a minute (link in bio) or at the front desk, 5070 Peachtree Blvd.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #ValentinesGift #ShopLocal",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/04-thu-feb4-give-a-fresh-cut.jpg"
+  },
+  {
+   "id": "05-fri-feb5-icy-platinum",
+   "at": "2027-02-05T12:00",
+   "date": "Fri Feb 5",
+   "status": "pending",
+   "caption": "Icy platinum. ❄️\n\nBright, cool and clean for the last weeks of winter.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #PlatinumHair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/05-fri-feb5-icy-platinum.jpg"
+  },
+  {
+   "id": "06-sat-feb6-weekend-taper",
+   "at": "2027-02-06T10:00",
+   "date": "Sat Feb 6",
+   "status": "pending",
+   "caption": "Weekend taper. ✂️\n\nLow taper, clean nape, ready for whatever's on this weekend.\n\nBook: bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Taper",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/06-sat-feb6-weekend-taper.jpg"
+  },
+  {
+   "id": "07-sun-feb7-date-night-ideas",
+   "at": "2027-02-07T12:00",
+   "date": "Sun Feb 7",
+   "status": "pending",
+   "caption": "Date-night hair ideas. Save for Feb 14 📌\n\n01 Big soft waves\n02 Slick back\n03 A little red\n04 Fresh fade\n\nValentine's weekend fills first. bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #DateNight",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-feb7-date-night-ideas-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-feb7-date-night-ideas-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-feb7-date-night-ideas-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-feb7-date-night-ideas-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-feb7-date-night-ideas-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/07-sun-feb7-date-night-ideas-6.jpg"
+   ]
+  },
+  {
+   "id": "08-mon-feb8-valentines-weekend",
+   "at": "2027-02-08T12:00",
+   "date": "Mon Feb 8",
+   "status": "pending",
+   "caption": "Valentine's weekend: Fri Feb 12 to Sun Feb 14. 📅\n\nThose days go first. Grab yours now, or come in earlier in the week.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/08-mon-feb8-valentines-weekend.jpg"
+  },
+  {
+   "id": "r17-tue-feb9-galentines-color",
+   "at": "2027-02-09T18:00",
+   "date": "Tue Feb 9",
+   "status": "pending",
+   "caption": "Bring your bestie. 💙💚❤️\n\nGalentine's is Sat Feb 13. Book side by side and walk out matching (or not).\n\nbishops.co/chamblee (link in bio)\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Galentines #VividHair",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r17-tue-feb9-galentines-color.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r17-tue-feb9-galentines-color-cover.jpg"
+  },
+  {
+   "id": "f09-tue-feb9-tag-your-bestie",
+   "at": "2027-02-09T18:00",
+   "date": "Tue Feb 9",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/f09-tue-feb9-tag-your-bestie.jpg",
+   "status": "manual",
+   "note": "Mention sticker: \"Tag who you'd book with\""
+  },
+  {
+   "id": "10-wed-feb10-soft-layers",
+   "at": "2027-02-10T12:00",
+   "date": "Wed Feb 10",
+   "status": "pending",
+   "caption": "Soft layers. 🍯\n\nCaramel balayage and long layers. Date-night ready.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Balayage",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/10-wed-feb10-soft-layers.jpg"
+  },
+  {
+   "id": "11-thu-feb11-last-minute-gift",
+   "at": "2027-02-11T12:00",
+   "date": "Thu Feb 11",
+   "status": "pending",
+   "caption": "Forgot a Valentine's gift? We've got you. 🎁\n\nBishops gift cards, bought online in a minute (link in bio). Good for any cut or color.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #ValentinesGift",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/11-thu-feb11-last-minute-gift.jpg"
+  },
+  {
+   "id": "f11-thu-feb11-gift",
+   "at": "2027-02-11T12:00",
+   "date": "Thu Feb 11",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/f11-thu-feb11-gift.jpg",
+   "status": "pending",
+   "note": "Link sticker: gift card purchase page"
+  },
+  {
+   "id": "12-fri-feb12-fresh-for-the-weekend",
+   "at": "2027-02-12T12:00",
+   "date": "Fri Feb 12",
+   "status": "pending",
+   "caption": "Fresh for the weekend. ✂️\n\nTextured crop, clean sides. Valentine's weekend starts now.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/12-fri-feb12-fresh-for-the-weekend.jpg"
+  },
+  {
+   "id": "13-sat-feb13-galentines-day",
+   "at": "2027-02-13T10:00",
+   "date": "Sat Feb 13",
+   "status": "pending",
+   "caption": "Happy Galentine's Day 💙❤️\n\nTag the friend you'd sit next to in the color chair.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Galentines",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/13-sat-feb13-galentines-day.jpg"
+  },
+  {
+   "id": "14-sun-feb14-valentines-day",
+   "at": "2027-02-14T12:00",
+   "date": "Sun Feb 14",
+   "status": "pending",
+   "caption": "Happy Valentine's Day, Chamblee ❤️\n\nLove your hair. We sure do.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #ValentinesDay",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/14-sun-feb14-valentines-day.jpg"
+  },
+  {
+   "id": "15-mon-feb15-been-a-while",
+   "at": "2027-02-15T12:00",
+   "date": "Mon Feb 15",
+   "status": "pending",
+   "caption": "It's been a minute. 👋\n\nWe're open today, Presidents' Day. If your last cut was before the holidays, your chair's open this week.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/15-mon-feb15-been-a-while.jpg"
+  },
+  {
+   "id": "r18-tue-feb16-bonus-two-weeks",
+   "at": "2027-02-16T18:00",
+   "date": "Tue Feb 16",
+   "status": "pending",
+   "caption": "2 weeks left on your bonus card. ⏳\n\nUse your Bishops bonus card on a cut or color by Mar 1, 2027.\n\nBook: bishops.co/chamblee (link in bio)\n\nBonus card valid Jan 1 to Mar 1, 2027. Can't be combined with other offers.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r18-tue-feb16-bonus-two-weeks.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r18-tue-feb16-bonus-two-weeks-cover.jpg"
+  },
+  {
+   "id": "f16-tue-feb16-two-weeks",
+   "at": "2027-02-16T18:00",
+   "date": "Tue Feb 16",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/f16-tue-feb16-two-weeks.jpg",
+   "status": "pending",
+   "note": "Link sticker: bishops.co/chamblee"
+  },
+  {
+   "id": "17-wed-feb17-warm-it-up",
+   "at": "2027-02-17T12:00",
+   "date": "Wed Feb 17",
+   "status": "pending",
+   "caption": "Warm it up. 🍯\n\nCaramel ribbons for the first warm days. Spring is close.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Balayage",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/17-wed-feb17-warm-it-up.jpg"
+  },
+  {
+   "id": "18-thu-feb18-fade-care",
+   "at": "2027-02-18T12:00",
+   "date": "Thu Feb 18",
+   "status": "pending",
+   "caption": "Keep your fade fresh. Save this 📌\n\n1️⃣ Every 2 to 3 weeks\n2️⃣ Book the next one at checkout\n3️⃣ Don't DIY the neckline 😅\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #Fade #Barbershop",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/18-thu-feb18-fade-care-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/18-thu-feb18-fade-care-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/18-thu-feb18-fade-care-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/18-thu-feb18-fade-care-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/18-thu-feb18-fade-care-5.jpg"
+   ]
+  },
+  {
+   "id": "19-fri-feb19-green-curls",
+   "at": "2027-02-19T12:00",
+   "date": "Fri Feb 19",
+   "status": "pending",
+   "caption": "Go green. 💚\n\nColor on natural curls, right under the big orange B.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #CurlyHair #VividHair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/19-fri-feb19-green-curls.jpg"
+  },
+  {
+   "id": "20-sat-feb20-kids-saturday",
+   "at": "2027-02-20T10:00",
+   "date": "Sat Feb 20",
+   "status": "pending",
+   "caption": "Little guy, big fade. ✂️\n\nKids cuts at Bishops Chamblee. Saturday's a good day for it.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #KidsHaircut",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/20-sat-feb20-kids-saturday.jpg"
+  },
+  {
+   "id": "21-sun-feb21-spring-color-preview",
+   "at": "2027-02-21T12:00",
+   "date": "Sun Feb 21",
+   "status": "pending",
+   "caption": "Spring color, coming soon 🌸\n\n01 Caramel balayage\n02 Sunny blonde\n03 Platinum\n04 Pink ends\n\nWhich way are you going? 👇\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #SpringHair #HairColor",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-sun-feb21-spring-color-preview-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-sun-feb21-spring-color-preview-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-sun-feb21-spring-color-preview-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-sun-feb21-spring-color-preview-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-sun-feb21-spring-color-preview-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/21-sun-feb21-spring-color-preview-6.jpg"
+   ]
+  },
+  {
+   "id": "22-mon-feb22-bonus-one-week",
+   "at": "2027-02-22T12:00",
+   "date": "Mon Feb 22",
+   "status": "pending",
+   "caption": "One week left on Bishops bonus cards. ⏳\n\nThey expire Mar 1, 2027. Book a cut or color this week and bring yours in.\n\nbishops.co/chamblee\n\nBonus card valid Jan 1 to Mar 1, 2027. Can't be combined with other offers.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/22-mon-feb22-bonus-one-week.jpg"
+  },
+  {
+   "id": "f22-mon-feb22-one-week",
+   "at": "2027-02-22T12:00",
+   "date": "Mon Feb 22",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/f22-mon-feb22-one-week.jpg",
+   "status": "pending",
+   "note": "Link sticker: bishops.co/chamblee"
+  },
+  {
+   "id": "r19-tue-feb23-spring-is-coming",
+   "at": "2027-02-23T18:00",
+   "date": "Tue Feb 23",
+   "status": "pending",
+   "caption": "Spring is coming. 🌸\n\nWarm caramel, sunny blonde, cool platinum. Start planning your spring color.\n\nBook: bishops.co/chamblee (link in bio)\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #SpringHair #HairColor",
+   "type": "reel",
+   "video_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r19-tue-feb23-spring-is-coming.mp4",
+   "cover_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/r19-tue-feb23-spring-is-coming-cover.jpg"
+  },
+  {
+   "id": "24-wed-feb24-slick-back",
+   "at": "2027-02-24T12:00",
+   "date": "Wed Feb 24",
+   "status": "pending",
+   "caption": "Clean lines. ✂️\n\nSlick back, low fade, sharp all week.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #LowFade",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/24-wed-feb24-slick-back.jpg"
+  },
+  {
+   "id": "25-thu-feb25-weekend-open",
+   "at": "2027-02-25T12:00",
+   "date": "Thu Feb 25",
+   "status": "pending",
+   "caption": "Got a bonus card? Use it this weekend. 🧡\n\nBishops bonus cards expire Mon Mar 1.\n\nbishops.co/chamblee\n\nBonus card valid Jan 1 to Mar 1, 2027. Can't be combined with other offers.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/25-thu-feb25-weekend-open.jpg"
+  },
+  {
+   "id": "26-fri-feb26-teal-peek",
+   "at": "2027-02-26T12:00",
+   "date": "Fri Feb 26",
+   "status": "pending",
+   "caption": "A little teal. 💚\n\nBlonde with a hidden teal underlayer. Ready for spring.\n\nbishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber #PeekabooHair",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/26-fri-feb26-teal-peek.jpg"
+  },
+  {
+   "id": "f26-fri-feb26-last-weekend",
+   "at": "2027-02-26T12:00",
+   "date": "Fri Feb 26",
+   "type": "story",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/f26-fri-feb26-last-weekend.jpg",
+   "status": "pending",
+   "note": "Link sticker: bishops.co/chamblee"
+  },
+  {
+   "id": "27-sat-feb27-last-weekend",
+   "at": "2027-02-27T10:00",
+   "date": "Sat Feb 27",
+   "status": "pending",
+   "caption": "Last weekend to use your Bishops bonus card. ⏳\n\nThey expire Mon Mar 1. Walk in or book: bishops.co/chamblee\n\nBonus card valid Jan 1 to Mar 1, 2027. Can't be combined with other offers.\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "image",
+   "image_url": "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/27-sat-feb27-last-weekend.jpg"
+  },
+  {
+   "id": "28-sun-feb28-february-recap",
+   "at": "2027-02-28T12:00",
+   "date": "Sun Feb 28",
+   "status": "pending",
+   "caption": "February in our chairs 🧡\n\n01 Indigo\n02 Caramel\n03 Slick back\n04 Green curls\n\nHeads up: Bishops bonus cards expire tomorrow, Mon Mar 1.\n\nSee you in March. bishops.co/chamblee\n\n#BishopsChamblee #ChambleeGA #AtlantaHair #AtlantaBarber",
+   "type": "carousel",
+   "image_urls": [
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/28-sun-feb28-february-recap-1.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/28-sun-feb28-february-recap-2.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/28-sun-feb28-february-recap-3.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/28-sun-feb28-february-recap-4.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/28-sun-feb28-february-recap-5.jpg",
+    "https://raw.githubusercontent.com/sweepix/bishopschamblee/claude/project-thread-c44si8/scheduled/28-sun-feb28-february-recap-6.jpg"
+   ]
+  }
+ ]
+}
